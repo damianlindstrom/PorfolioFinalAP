@@ -1,1 +1,46 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 100%;
+}
+
+#profile-background {
+    max-height: 55vh;
+    padding: 0;
+    }
+
+div#info-img{
+    margin-left:.5em; 
+    display: flex; 
+    flex-direction: row;
+}
+
+div.mat-card{
+    border: rgb(50, 79, 173) 2px solid;
+    margin: 3px;
+    padding: .2em;
+}
+img.profile-image{
+    max-height: 10em;
+    border-radius: 50%;
+    display: flex;
+    z-index: 1;
+    margin-top: -110px;
+    border: lightyellow 2px solid;
+    padding-left: 0;
+}
+.btn-right{
+    display: flex;
+    flex-direction: row;
+}
+ul {
+    list-style: none;
+}
+img.experience-img{
+    max-width: 50%;
+    margin: auto;
+    padding: 1em;
+}

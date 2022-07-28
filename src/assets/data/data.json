@@ -1,0 +1,20 @@
+{
+
+    "name": "Damian Lindström",
+    "backImage": "https://i.pinimg.com/564x/c8/f4/a3/c8f4a34ce19a6430edafde2ddb8366f4.jpg",
+    "image": "https://www.psicoactiva.com/wp-content/uploads/blog/2016/05/chico-atractivo1.jpg",
+    "position": "Futuro Programador Web Full-stack junior",
+    "company": { 
+        "name": "Freelancer, Monotributriste",
+        "img": "",
+        "url": ""
+    },
+    "school": {
+        "name": "Google",
+        "img": "https://freesvg.org/img/1534129544.png",
+        "url": "https://learndigital.withgoogle.com/activate/courses"
+    },
+    "ubication": "Buenos Aires (Argentina)",
+    "about": "Tecnologico, atento, proactivo, buen cocinero, jugador de fútbol frustrado y (probablemente) programador web full-stack"
+
+}

@@ -1,0 +1,55 @@
+<div class="card mat-card">
+    <div class="card-titles">
+        <h2>Experiencia</h2>
+        <div class="btn-edit" onclick="agregar_experiencia()">
+            <a class="btn-right">
+                <i class="bi bi-pen-fill"></i>
+            </a>
+        </div>
+    </div>
+
+    <div id="experience-list">
+       
+        <ul class="row">
+            <li class="col-md-6">
+
+                <div class="card my-1" style="width: 18rem; flex-direction: row-reverse;">
+                  <img class="card-img-top" id="current-exp-img" src="..." alt="Card image cap">
+                <div class="card-body">
+                  <h4 id="current-exp-title" class="card-title">Extraer Justicia</h4>
+                </div>
+                    <input type="text" name="exp-titulo" id="exp1" style="display: none;" oninput="mod_title(this.value)">
+                    <input type="file" name="exp-image" id="exp-img" style="display: none;" onchange="mod_img(this)">
+              </div>
+            </li>
+  
+            <li class="col-6">
+                <div class="card my-1" style="width: 18rem; flex-direction: row-reverse;">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">DI</h4>
+                    </div>
+                </div>
+            </li>
+  
+            <li class="col-6">
+                <div class="card my-1" style="width: 18rem; flex-direction: row-reverse;">
+                  <img class="card-img-top" src="..." alt="Card image cap">
+                <div class="card-body">
+                  <h4 class="card-title">ACS</h4>
+                </div>
+              </div>
+            </li>
+  
+            <li class="col-6">
+                <div class="card my-1" style="width: 18rem; flex-direction: row-reverse;">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Oro Sucio</h4>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+  </div>
+  
