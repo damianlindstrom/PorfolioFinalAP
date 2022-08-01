@@ -9,11 +9,30 @@
         "img": "",
         "url": ""
     },
-    "school": {
+    "education": [{
         "name": "Google",
+        "degree": "Introducción al desarrollo web (HTML, CSS, JS)",
         "img": "https://freesvg.org/img/1534129544.png",
         "url": "https://learndigital.withgoogle.com/activate/courses"
     },
+    {
+        "name": "Argentina Programa",
+        "degree": "Programador web full-stack junior",
+        "img": "https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1657411642/APLogo-20-20.png",
+        "url": "https://argentinaprograma.inti.gob.ar/"
+    }
+],
+"experience": [{
+    "name": "DebatesIndigenas.org",
+    "role": "Desarrollador Web",
+    "date-from": "07/2019",
+    "date-to": "A la fecha",
+    "url": "https://debatesindigenas.org"
+},
+{
+ 
+}
+],
     "ubication": "Buenos Aires (Argentina)",
     "about": "Tecnologico, atento, proactivo, buen cocinero, jugador de fútbol frustrado y (probablemente) programador web full-stack"
 

@@ -23,15 +23,6 @@ div.mat-card{
     margin: 3px;
     padding: .2em;
 }
-img.profile-image{
-    max-height: 10em;
-    border-radius: 50%;
-    display: flex;
-    z-index: 1;
-    margin-top: -110px;
-    border: lightyellow 2px solid;
-    padding-left: 0;
-}
 .btn-right{
     display: flex;
     flex-direction: row;

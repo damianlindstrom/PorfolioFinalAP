@@ -1,5 +1,13 @@
 img.backImage{
     min-height: 50vh;
     width: 100%;
-
+}
+img.profile-image{
+    max-height: 10em;
+    border-radius: 50%;
+    display: flex;
+    z-index: 1;
+    margin-top: -60px;
+    border: lightyellow 2px solid;
+    padding-left: 0;
 }
